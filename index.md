@@ -2,7 +2,7 @@ First off my name isnt CrackedResearcher - when i created my github account i di
 
 you can call me Ayush 👋 
 
-i love to engineer softwares and  building ai native systems + build a lot of aide projects too 
+i love to engineer softwares and  build ai native systems + code a lot of side projects too 
 
 i built this blog to basically share my learnings with you guys.
 by learnings i mean whatever i learn during building my startups and going through life 
