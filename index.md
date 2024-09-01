@@ -7,7 +7,7 @@ i love to engineer softwares and  build ai native systems + code a lot of side p
 i built this blog to basically share my learnings with you guys.
 by learnings i mean whatever i learn during building my startups and going through life 
 
-also just as a way to  practising writing more (inspiration came from paul graham and sam altman)
+also just as a way to  practise writing more (inspiration came from paul graham and sam altman)
 
 
 currently:
