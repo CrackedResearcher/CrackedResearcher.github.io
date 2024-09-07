@@ -33,4 +33,4 @@ i want to be genuine with you guys and admit that the first version of this blog
 
 
 Written by **ME** *Ayush*
-Socials: [X/Twitter](x.com/@0xayush1)
+Socials: [X/Twitter](https://x.com/@0xayush1)
