@@ -31,6 +31,7 @@ in this post, i’ll give you an update on my startup, **[calm email](https://ca
 ps:
 i want to be genuine with you guys and admit that the first version of this blog had a lot of grammatical errors. then, i asked gpt to help me create a highly formatted (markdown) + error-free version. and here it is – the post you’re reading right now!
 
+---
+Written by ME: *Ayush*
 
-Written by **ME** *Ayush*
 Socials: [X/Twitter](https://x.com/@0xayush1)
