@@ -45,7 +45,7 @@ in this post, i’ll give you an update on my startup, **[calm email](https://ca
 
 here’s the current version of the website (it’s not perfect, but i kinda love it):
 
-![website image]
+![CalmEmail_current_video](https://github.com/user-attachments/assets/ffa467c8-22a7-451b-8a28-4467fac2c543)
 
 ---
 
@@ -54,6 +54,8 @@ if you’ve read this far, **thank you!** i adore you. i hope you all have a won
 ---
 
 ### ps:
+
+
 i want to be genuine with you guys and admit that the first version of this blog had a lot of grammatical errors. then, i asked gpt to help me create a highly formatted (markdown) + error-free version. and here it is – the post you’re reading right now!
 
 and if you're a founder reading this, be sure to try **calm email** – i’m sure you'd love using it!
