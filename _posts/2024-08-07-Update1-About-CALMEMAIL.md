@@ -1,5 +1,5 @@
 
-# hi, this is my first post (probably my first blog post)
+# UPDATE 1: CALM EMAIL (probably my first blog post)
 
 in this post, i’ll give you an update on my startup, **[calm email](https://calmemail.xyz)**.
 
