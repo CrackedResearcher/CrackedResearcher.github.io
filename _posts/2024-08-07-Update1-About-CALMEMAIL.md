@@ -44,7 +44,9 @@ in this post, i’ll give you an update on my startup, **[calm email](https://ca
 
 here’s the current version of the website (it’s not perfect, but i kinda love it):
 
-<iframe width="100%" height="420px" src="https://drive.google.com/file/d/1dgNysHhMc7nkYKNm5uUgBfjDmTgPo4cw/view?usp=drivesdk" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1dgNysHhMc7nkYKNm5uUgBfjDmTgPo4cw/preview" width="100%" height="420" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 ---
 
 if you’ve read this far, **thank you!** i adore you. i hope you all have a wonderful day ahead 😊.
