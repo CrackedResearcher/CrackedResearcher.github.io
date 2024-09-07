@@ -45,9 +45,7 @@ in this post, i’ll give you an update on my startup, **[calm email](https://ca
 
 here’s the current version of the website (it’s not perfect, but i kinda love it):
 
-![CalmEmail_current_video]()
-
-<iframe width="560" height="315" src="https://github.com/user-attachments/assets/ffa467c8-22a7-451b-8a28-4467fac2c543" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://github.com/user-attachments/assets/ffa467c8-22a7-451b-8a28-4467fac2c543" frameborder="0" allowfullscreen></iframe>
 ---
 
 if you’ve read this far, **thank you!** i adore you. i hope you all have a wonderful day ahead 😊.
