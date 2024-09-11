@@ -26,5 +26,5 @@ thanks for reading
 ✌️ 
 
 
-written by [Ayush](https:/x.com/@0xayush1)
+written by [Ayush](https://x.com/@0xayush1)
 on 11 sept 2024
