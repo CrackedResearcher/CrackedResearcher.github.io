@@ -1,30 +1,28 @@
-##Things im doing to get users for Calm Email
+## Things I'm Doing to Get Users for Calm Email
 
-hi
+Hi,
 
-i just read a in a blog post by chris bakke on how to get users for your b2b software company 
+I just read a blog post by Chris Bakke on how to get users for your B2B software company. 
 
-i found it really hekpful and wanted to find a place where i could save this but decided do post it here instead:
+I found it really helpful and wanted to find a place where I could save this, but I decided to post it here instead:
 
-btw im typing this on my phone (on github.com lol)
+By the way, I'm typing this on my phone (on GitHub.com, lol).
 
-anyways heres the hyoer targeted steps i will take to get users for CalmEmail;
+Anyway, here are the hyper-targeted steps I will take to get users for Calm Email:
 
-1. build a list of 20 founders (who just lauched their companies, mainly on yc lanuch, vc social medias etc)
-2. make a plan to creatively reachout to all of them and make a goal of atleast getting 4/5 of them to agree for a demo or try calm email in next 30 days
-3. i try x to outreach + send linkedin dm without any mesage then send dm
+1. Build a list of 20 founders (who just launched their companies, mainly on YC Launch, VC social media, etc.).
+2. Make a plan to creatively reach out to all of them and set a goal of getting at least 4-5 of them to agree to a demo or try Calm Email within the next 30 days.
+3. Outreach strategy: try to send a LinkedIn DM without a message, then follow up with a more personalized DM.
 
-this is what i read and will implement.
+This is what I read and will implement.
 
-i am good at building products but not marketing things
+I am good at building products but not at marketing them.
 
-i probably wasnt born as a seller (but ill have to learn that)
+I probably wasn’t born as a seller (but I’ll have to learn that).
 
-lets see how much we are abke to get done.
+Let’s see how much we are able to get done.
 
-thanks for reading 
-✌️ 
+Thanks for reading ✌️
 
-
-written by [Ayush](https://x.com/@0xayush1)
-on 11 sept 2024
+Written by [Ayush](https://x.com/@0xayush1)  
+on 11 Sept 2024
