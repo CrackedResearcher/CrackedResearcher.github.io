@@ -4,6 +4,7 @@
 
 <img width="458" alt="Screenshot 2024-09-29 at 6 34 36 PM" src="https://github.com/user-attachments/assets/8c909dd7-c34f-4129-9ea0-1ce971e171e3">
 
+---
 
 Most blog posts only share the good things, but no one updates about their life when nothing seems to be going well. I'm going to do just that.
 
