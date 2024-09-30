@@ -2,6 +2,9 @@
 
 # When the Going Gets Harder - Life Update 1
 
+<img width="458" alt="Screenshot 2024-09-29 at 6 34 36 PM" src="https://github.com/user-attachments/assets/8c909dd7-c34f-4129-9ea0-1ce971e171e3">
+
+
 Most blog posts only share the good things, but no one updates about their life when nothing seems to be going well. I'm going to do just that.
 
 **ONE THING: I'M YOUNG AND BROKE**
@@ -10,9 +13,11 @@ Building a startup is a journey filled with hopelessness and sudden bursts of ha
 
 That's the situation I'm in right now.
 
-I'm in my final year of a CS college degree while also building a startup. Sometimes it gets incredibly hard to balance these two commitments. (I was never passionate about university, although I wanted to study in the US to surround myself with great minds.) But money problems hold you down.
+I'm in my final year of a CS college degree while also building a startup. 
 
-Right now, I'm facing two choices:
+Sometimes it gets incredibly hard to balance these two commitments. (I was never passionate about university, although I wanted to study in the US to surround myself with great minds.) But money problems hold you down.
+
+Right now, I'm facing ***two choices:***
 
 Two hours ago, I was scrolling LinkedIn and saw a post about companies hiring React Native developers - an area where I have experience. I clicked the link and discovered Google was hiring for early career positions. My first thought was to apply, but then CALM EMAIL came to mind.
 
