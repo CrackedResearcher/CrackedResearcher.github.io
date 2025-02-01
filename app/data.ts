@@ -87,7 +87,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   },
   {
     company: 'SecureSnap',
-    title: 'Founder ',
+    title: 'Founder',
     start: 'June 2022',
     end: 'December 2022',
     description: 'Trustpilot but for course creators (this kind of failed)',
