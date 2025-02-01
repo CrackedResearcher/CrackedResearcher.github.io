@@ -3,6 +3,7 @@ import { motion } from 'motion/react'
 import { XIcon } from 'lucide-react'
 import { Spotlight } from '@/components/ui/spotlight'
 import { Magnetic } from '@/components/ui/magnetic'
+import Image from 'next/image'
 import {
   MorphingDialog,
   MorphingDialogTrigger,
@@ -135,11 +136,21 @@ export default function Personal() {
         variants={VARIANTS_SECTION}
         transition={TRANSITION_SECTION}
       >
-        <div className="flex-1">
-          <p className="text-zinc-600 dark:text-zinc-400">
-            Focused on creating intuitive and performant web experiences.
-            Bridging the gap between design and development.
-          </p>
+        <div className="flex flex-col items-center space-y-6">
+          <div className="relative h-48 w-48 overflow-hidden rounded-full ring-2 ring-zinc-200 dark:ring-zinc-800">
+            <Image
+              src="https://media.licdn.com/dms/image/v2/D4D03AQHyjs0D8Kf7TQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728836582244?e=1743638400&v=beta&t=MoO26jfrTVhuM7rgsEVVlD1Dq6tZE2T1C13sIUfTzFo"
+              alt="Profile Picture"
+              fill
+              className="object-cover"
+              priority
+            />
+          </div>
+          <div className="flex-1 text-center">
+            <p className="text-zinc-600 dark:text-zinc-400">
+              builder at heart - who loves to build stuff/products from scratch + ship/grow it. currently building something new in ai. stay tuned! landing in SF soon.. 🛫
+            </p>
+          </div>
         </div>
       </motion.section>
 
@@ -198,6 +209,9 @@ export default function Personal() {
                     </h4>
                     <p className="text-zinc-500 dark:text-zinc-400">
                       {job.company}
+                    </p>
+                    <p className="text-zinc-500 dark:text-zinc-400">
+                      {job.description}
                     </p>
                   </div>
                   <p className="text-zinc-600 dark:text-zinc-400">

@@ -12,9 +12,9 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  title: 'Nim - Personal website template',
+  title: 'Ayush\'s personal blog',
   description:
-    'Nim is a free and open-source personal website template built with Next.js 15, React 19 and Motion-Primitives.',
+    'My blog where i share thoughts about ai, tech and more.. expect tutorials on how build ai agents that dont suck.',
 }
 
 const geist = Geist({
