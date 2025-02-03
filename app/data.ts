@@ -1,3 +1,5 @@
+import { BLOG_DATA } from "./blog-data";
+
 type Project = {
   name: string
   description: string
@@ -96,14 +98,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   },
 ]
 
-export const BLOG_POSTS: BlogPost[] = [
-  {
-    title: 'This is the first blog post, hello 👋',
-    description: 'It doesnt need a desc!',
-    link: '/blog/first-blog',
-    uid: 'blog-1',
-  },
-]
+export const BLOG_POSTS: BlogPost[] = BLOG_DATA;
 
 export const SOCIAL_LINKS: SocialLink[] = [
   {
