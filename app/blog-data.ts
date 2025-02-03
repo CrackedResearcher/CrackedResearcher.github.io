@@ -1,5 +1,11 @@
 export const BLOG_DATA = [
     {
+  "title": "new blog that sucks",
+  "description": "i know thats sucking",
+  "link": "/blog/new-blog-that-sucks",
+  "uid": "blog-1738611179001"
+},
+    {
   "title": "test blog one1",
   "description": "checking test 1",
   "link": "/blog/test-blog-one1",
