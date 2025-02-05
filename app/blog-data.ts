@@ -18,9 +18,9 @@ export const BLOG_DATA = [
   "uid": "blog-1738608058786"
 },
     {
-      title: 'This is the first blog post, hello 👋',
-      description: 'It doesnt need a desc!',
-      link: '/blog/first-blog',
-      uid: 'blog-1',
+      "title": "This is the first blog post, hello 👋",
+      "description": "It doesnt need a desc!",
+      "link": "/blog/first-blog",
+      "uid": "blog-1",
     },
 ]
