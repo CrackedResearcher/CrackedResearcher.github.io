@@ -13,7 +13,7 @@ export const BLOG_DATA = [
 },
     {
   "title": "this is a new app",
-  "description": "hello let\'s debug",
+  "description": "hello let's debug",
   "link": "/blog/this-is-a-new-app",
   "uid": "blog-1738735959708"
 },
