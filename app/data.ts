@@ -51,14 +51,23 @@ export const PROJECTS: Project[] = [
 ]
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
+    {
+    company: 'DeepReel AI',
+    title: 'Software Engineer, Full Stack & AI',
+    start: 'April 2024',
+    end: 'Present',
+    link: 'https://deepreel.com',
+    description: 'Building the future of AI powered video generation platform. Deepreel helps u generate videos from just a single prompt',
+    id: 'work1',
+  },
   {
     company: 'Ekarth Ventures',
     title: 'Full Stack Software Engr',
     start: 'September 2024',
-    end: 'Present',
+    end: 'April 2024',
     link: 'https://nahar.om/',
     description: 'lead end to end development of their fintech product',
-    id: 'work1',
+    id: 'work2',
   },
   {
     company: 'CalmEmail',
@@ -67,7 +76,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     end: 'August 2024',
     link: 'https://calmemail.xyz',
     description: 'AI powered email assistant for founders. Grew to 100+ users + won $2.5k worth of OpenAI credits from microsoft.',
-    id: 'work2',
+    id: 'work3',
   },
   {
     company: 'Buildspace (yc s20 & a16z)',
@@ -76,7 +85,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     end: 'August 2024',
     link: 'https://ibelick.com',
     description: 'Selected from amongst 60000 applicants worldwide to work on my ideas.',
-    id: 'work3',
+    id: 'work4',
   },
   {
     company: 'ScaleVision',
@@ -85,7 +94,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     end: 'November 2024',
     description: 'Started this video prod agency and worked with saas companies in usa/canada.',
     link: 'https://linkedin.com/company/scalevision',
-    id: 'work4',
+    id: 'work5',
   },
   {
     company: 'SecureSnap',
@@ -94,7 +103,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     end: 'December 2022',
     description: 'Trustpilot but for course creators (this kind of failed)',
     link: 'https://linkedin.com/company/securesnap',
-    id: 'work5',
+    id: 'work6',
   },
 ]
 
