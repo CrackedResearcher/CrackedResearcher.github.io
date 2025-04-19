@@ -139,7 +139,7 @@ export default function Personal() {
         <div className="flex flex-col items-center space-y-6">
           <div className="relative h-48 w-48 overflow-hidden rounded-full ring-2 ring-zinc-200 dark:ring-zinc-800">
             <Image
-              src="https://media.licdn.com/dms/image/v2/D4D03AQHyjs0D8Kf7TQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728836582244?e=1743638400&v=beta&t=MoO26jfrTVhuM7rgsEVVlD1Dq6tZE2T1C13sIUfTzFo"
+              src="https://media.licdn.com/dms/image/v2/D4D03AQHyjs0D8Kf7TQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728836582244?e=1750291200&v=beta&t=MC5iCWO-H7jEYR1ziAodCPAuNrg65zZKotzfrwSUzvg"
               alt="Profile Picture"
               fill
               className="object-cover"
