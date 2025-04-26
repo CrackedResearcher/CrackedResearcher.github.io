@@ -52,7 +52,7 @@ export const PROJECTS: Project[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
     {
-    company: 'DeepReel AI',
+    company: 'DeepReel AI, (The UK)',
     title: 'Software Engineer, Full Stack & AI',
     start: 'April 2024',
     end: 'Present',
