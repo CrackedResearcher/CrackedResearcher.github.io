@@ -79,7 +79,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     id: 'work3',
   },
   {
-    company: 'Buildspace (yc s20 & a16z)',
+    company: 'Buildspace (yc s20 & a16z) 🇺🇸',
     title: 'AI software engr (fellow)',
     start: 'June 2024',
     end: 'August 2024',
