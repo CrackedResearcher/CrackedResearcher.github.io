@@ -52,7 +52,7 @@ export const PROJECTS: Project[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
     {
-    company: 'DeepReel AI, (The UK)',
+    company: 'DeepReel AI, 🇬🇧',
     title: 'Software Engineer, Full Stack & AI',
     start: 'April 2024',
     end: 'Present',
@@ -61,7 +61,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     id: 'work1',
   },
   {
-    company: 'Ekarth Ventures',
+    company: 'Ekarth Ventures, 🇮🇳',
     title: 'Full Stack Software Engr',
     start: 'September 2024',
     end: 'April 2024',
@@ -70,7 +70,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     id: 'work2',
   },
   {
-    company: 'CalmEmail',
+    company: 'CalmEmail, 🇮🇳',
     title: 'Founder & Head of everything',
     start: 'March 2024',
     end: 'August 2024',
